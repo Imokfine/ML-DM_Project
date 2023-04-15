@@ -14,10 +14,10 @@ Two datasets were used in this project. One is `listings.csv`, which includes de
 
 ## Usage
 
-* [Part 1: Data processing]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()  
+* [Part 1: Data processing](https://github.com/Imokfine/ML-DM_Projects/blob/main/Airbnb_Rating_Prediction/ML_Final_Part1.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AJKaAVyxCjaplbP2fLadID_yrs2Na_MU?authuser=2)  
 In this part, two csv files will be outputed for part2. One is `listings_clean.csv`, which is the cleaned data from `listings.csv`. Another is `reviews_clean.csv`, which is the cleaned data from `reviews.csv`.
 
-* [Part 2: Training]() [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]()   
+* [Part 2: Training](https://github.com/Imokfine/ML-DM_Projects/blob/main/Airbnb_Rating_Prediction/ML_Final_Part2.ipynb) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1onG5P9Ki9smGZlU7e6zkbwII4bJXMyz6?authuser=2)   
 In this part, `listings_clean.csv` and `reviews_clean.csv` from Part 1 will be the inputs.
 
 ## Result
