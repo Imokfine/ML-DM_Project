@@ -1,5 +1,5 @@
 # Machine Learning & Data Mining projects
-A collection of projects for machine learning and data mining.
+A collection of my projects for machine learning and data mining.
 
 ## Project list
 * [Facial Expression Recognition (Group project)](https://github.com/Imokfine/ML_GroupProject)
